@@ -4,11 +4,10 @@
 
 # 🚀 **Welcome to My GitHub!**  
 
-### **Hi, I'm Roujan Mohamad**  
+### **Hi, I'm RM**
 🔹 **CEO of BLNCR** | 🖥️ **Full-Stack Developer** | 🔐 **Cybersecurity Enthusiast**  
 
 🌟 Passionate about **Software Development, UI/UX Design, and Cybersecurity**  
-🎮 Currently working on **Unity-based projects**  
 📖 Learning **C#, Advanced Web Development & Cybersecurity**  
 💡 Always exploring new technologies & frameworks  
 
