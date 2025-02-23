@@ -65,7 +65,7 @@
   <a href="https://github.com/Roujanm" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/RoujanMohamad" target="_blank">
+  <a href="https://www.linkedin.com/in/r-m-864b08262/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/_RM1405" target="_blank">
