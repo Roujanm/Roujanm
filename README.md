@@ -5,7 +5,7 @@
 # 🚀 **Welcome to My GitHub!**  
 
 ### **Hi, I'm RM**
-🔹 **CEO of BLNCR** | 🖥️ **Full-Stack Developer** | 🔐 **Cybersecurity Enthusiast**  
+🔹 **CEO of BLNCR** | 🖥️ **Developer** | 🔐 **Cybersecurity Enthusiast**  
 
 🌟 Passionate about **Software Development, UI/UX Design, and Cybersecurity**  
 📖 Learning **C#, Advanced Web Development & Cybersecurity**  
