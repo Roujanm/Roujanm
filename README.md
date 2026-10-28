@@ -13,24 +13,6 @@
 
 
 ---
-
-## 🎯 **Tech Stack & Skills**  
-
-
-
-## 📈 **GitHub Stats**  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roujanm&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>  
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roujanm&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Roujanm&theme=tokyonight" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 🌎 **Connect with Me**  
